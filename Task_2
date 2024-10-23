@@ -1,0 +1,4 @@
+Sequence: [((())()(())]] is not corrected
+Remove the extra closing square bracket ] at the end.
+Remove one extra opening round bracket ( at the beginning.
+[(())()(())] fixed
